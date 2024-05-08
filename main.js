@@ -18,7 +18,8 @@ function conversion (pesos, elecciones) {
 }
 
 let resultado = conversion (ingresaPesos, eleccion);
-console.log (resultado);
+alert("El resultado de la conversión es: " + resultado);
+
 
 
 
